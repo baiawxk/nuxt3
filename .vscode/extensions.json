@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "antfu.vite",
+    "johnsoncodehk.volar",
+    "johnsoncodehk.vscode-typescript-vue-plugin",
+    "lokalise.i18n-ally",
+    "dbaeumer.vscode-eslint",
+    "voorjaar.windicss-intellisense",
+    "stylelint.vscode-stylelint",
+    "csstools.postcss",
+    "xabikos.javascriptsnippets",
+    "yzhang.markdown-all-in-one",
+    "eamodio.gitlens",
+    "fallenmax.mithril-emmet",
+    "visualstudioexptteam.vscodeintellicode",
+    "mikestead.dotenv",
+  ]
+}

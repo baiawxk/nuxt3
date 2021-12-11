@@ -1,6 +1,7 @@
 <template>
   <div>
     <Logos mb-6 />
+    this. is from the index.vue
     <Suspense>
       <PageView />
       <template #fallback>

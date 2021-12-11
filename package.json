@@ -17,7 +17,7 @@
     "@vueuse/nuxt": "^7.2.2",
     "eslint": "^8.4.1",
     "nuxt3": "latest",
-    "typescript": "^4.5.2"
+    "typescript": "^4.5.3"
   },
   "pnpm": {
     "overrides": {
